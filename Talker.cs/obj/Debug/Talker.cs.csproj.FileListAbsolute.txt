@@ -1,0 +1,9 @@
+c:\users\eduar\onedrive\documents\visual studio 2012\Projects\Talker.cs\Talker.cs\bin\Debug\Talker.cs.exe.config
+C:\Users\eduar\OneDrive\documents\visual studio 2012\Projects\Talker.cs\Talker.cs\bin\Debug\Talker.cs.exe
+C:\Users\eduar\OneDrive\documents\visual studio 2012\Projects\Talker.cs\Talker.cs\bin\Debug\Talker.cs.pdb
+C:\Users\eduar\OneDrive\documents\visual studio 2012\Projects\Talker.cs\Talker.cs\obj\Debug\Talker.cs.csprojResolveAssemblyReference.cache
+C:\Users\eduar\OneDrive\documents\visual studio 2012\Projects\Talker.cs\Talker.cs\obj\Debug\Talker.cs.Properties.Resources.resources
+C:\Users\eduar\OneDrive\documents\visual studio 2012\Projects\Talker.cs\Talker.cs\obj\Debug\Talker.cs.Talker.resources
+C:\Users\eduar\OneDrive\documents\visual studio 2012\Projects\Talker.cs\Talker.cs\obj\Debug\Talker.cs.csproj.GenerateResource.Cache
+C:\Users\eduar\OneDrive\documents\visual studio 2012\Projects\Talker.cs\Talker.cs\obj\Debug\Talker.cs.exe
+C:\Users\eduar\OneDrive\documents\visual studio 2012\Projects\Talker.cs\Talker.cs\obj\Debug\Talker.cs.pdb
